@@ -103,7 +103,7 @@ function buildCharts(sample) {
         color: sampleValues.slice(0, 10).reverse(),
         colorscale: "YlOrBr"
       }
-      };
+      }
 
     ];
 
