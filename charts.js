@@ -179,3 +179,6 @@ function buildCharts(sample) {
 
   });
 }
+
+// Initialize the dashboard
+init();
